@@ -7,5 +7,5 @@ Solutions for course: "Applied Game Theory" taken at University of Novi Sad - Fa
    * <b>Bonus problem:</b> Selection of the optimal decision policy using the Markov Decision Process on the graph [[link]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%202/domaci2_dodatni.ipynb)<br>
 3. BlackJack bot (Temporal-Difference Q-Learning) [[link]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%203/domaci3.ipynb)<br>
 4. * Comparison of Q-Learning, SARSA an Monte-Carlo BlackJack agents<br>
-   * <b>Bonus problem:</b> Player VS Computer Tic-Tac-Toe (Q-learning)<br>[[link]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%202/domaci2_dodatni.ipynb)<br>
+   * <b>Bonus problem:</b> Player VS Computer Tic-Tac-Toe (Q-learning)<br>[[link]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%204/domaci4.ipynb)<br>
 5. //
