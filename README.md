@@ -10,7 +10,8 @@ Solutions for course: "Applied Game Theory" taken at University of Novi Sad - Fa
 4. * Comparison of Q-Learning, SARSA an Monte-Carlo BlackJack agents<br>
    * <b>Bonus problem:</b> Player VS Computer Tic-Tac-Toe (Q-learning)<br>[[code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%204/domaci4.ipynb)<br>
 5. Cournot competition [[code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%205/domaci5.ipynb) [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%205/karnoova_trzisna_utakmica.pdf)<br>
-6. Instigation game [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%206/igra_zabusavanja.pdf)<br>
+6. * Instigation game [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%206/igra_zabusavanja.pdf)<br>
+   * Instigation game from the viewpoint of lawmaker [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%206/igra_zabusavanja_zakonodavac.pdf)<br>
 7. * Replicator equations and Analysis of stability for stationary states for the following evolutonary games: "Hawk and Dove" and "Rock, Papers, Scissors" [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci_7.pdf)<br>
    * Evolutionary game simulation [[hawk_and_dove_code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci7_a.ipynb) [[rock_paper_scissors_code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci7_b.ipynb)<br>
    
