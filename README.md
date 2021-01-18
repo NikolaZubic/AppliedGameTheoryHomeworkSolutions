@@ -14,6 +14,6 @@ Solutions for course: "Applied Game Theory" taken at University of Novi Sad - Fa
    * Instigation game from the viewpoint of lawmaker [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%206/igra_zabusavanja_zakonodavac.pdf)<br>
 7. * Replicator equations and Analysis of stability for stationary states for the following evolutonary games: "Hawk and Dove" and "Rock, Papers, Scissors" [[pdf]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci_7.pdf)<br>
    * Evolutionary game simulation [[hawk_and_dove_code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci7_a.ipynb) [[rock_paper_scissors_code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%207/domaci7_b.ipynb)<br>
-8. Differential games with N aircrafts simulation [[code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%208/domaci8.ipynb)<br>
+8. Differential game with N aircrafts simulation [[code]](https://github.com/NikolaZubic/AppliedGameTheoryHomeworkSolutions/blob/main/Homework%208/domaci8.ipynb)<br>
 
 Mathematical solutions <b>[pdf]</b> are written in Serbian language.
